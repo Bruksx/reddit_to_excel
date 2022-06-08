@@ -1,0 +1,41 @@
+Subreddit specfic data.
+* Amount of subscribers: 
+* Daily net gain or net loss. 
+* Amount of new post and comments: net gain. 
+* Amount of upvotes and downvotes given. 
+* Measure ratio of upvotes per a post
+* Measure ratio of upvotes per a comment. 
+  Measure ratio of average post and comments per a subscriber.
+* Amount of moderator post.
+  Identify users who use multiple subs within dataset
+* ratio of moderators to subscribers.
+* Count post types and output daily amounts (image post, link post, text post, video post)
+measure of rate of change from each point set.
+*  List of reddit post flair ids and amounts used. 
+
+Subreddit subgroup data. 
+*Same data above, but instead of applying measures to individual subreddits apply it to subgroups.
+
+*General. All data points as above, but counnt all subreddits as one group to measure
+
+
+Moderator Data. 
+* Take list of subreddit moderators
+* Measure amount of post and comments made per a sub. Determine daily average. 
+* count if they moderate multiple subreddits within the subreddit list. 
+ Length of time from last post/comment. 
+ Count post types and amounts.
+ Measure flairs used and amount
+
+Automoderator:
+* Determine how many post are made by automod within each subreddit. 
+* Measure flairs used and amounts used per the subreddit. 
+
+
+
+
+
+
+
+
+
