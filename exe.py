@@ -30,9 +30,12 @@ class Fetch:
 
     def to_string(self, collection):
         string = ""
-        for i in collection:
-            string += f" {str(i)}, "
-        return string.strip()
+        try:
+            for i in collection:
+                string += f" {str(i)}, "
+            return string.strip()
+        except TypeError:
+            return None
 
     def all_data(self, sub):
         testbot = dataBot(reddit, sub, api)

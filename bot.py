@@ -167,6 +167,7 @@ class dataBot:
 
     @get_or_return_none
     def get_list_of_mods(self):
+        #print(self.reddit.subreddit(self.subreddit).moderator())
         mod_list = [str(i) for i in self.reddit.subreddit(self.subreddit).moderator()]
         return mod_list
     
@@ -221,7 +222,7 @@ class dataBot:
 testbot = dataBot(reddit, "makinghiphop", api)
 """
 start = time.time()
-testbot.get_new()
+print(testbot.mod_occurence())
 print(time.time() - start)
 start = time.time()
 testbot.get_new_submissions()

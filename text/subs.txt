@@ -13,10 +13,7 @@ r/NewTubers
 r/Bass
 r/FL_Studio
 r/WeAreTheMusicMakers
-r/audioengineering
-r/musictheory
 r/indieheads
-r/LetsTalkMusic
 r/trapproduction
 r/Guitar
 r/LofiHipHop
@@ -24,7 +21,6 @@ r/Drumkits
 r/indie
 r/MusicInTheMaking
 r/Hotsamples
-r/beatsdaily
 r/singing
 r/songwriters
 r/musicmarketing
